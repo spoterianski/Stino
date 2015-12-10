@@ -1,0 +1,108 @@
+# [ Arduino ]
+http://downloads.arduino.cc/packages/package_index.json
+
+# [ OpenTracker ]
+https://cdn.rawgit.com/geolink/opentracker-arduino-board/master/package_opentracker_index.json
+
+# [ Elektor ]
+https://raw.githubusercontent.com/ElektorLabs/arduino/master/package_elektor-labs.com_ide-1.6.6_index.json
+
+# [ Ardhat ]
+https://ardhat.github.io/ardhat-board-support/arduino/package_ardhat_index.json
+
+# [ Quirkbot ]
+https://raw.githubusercontent.com/Quirkbot/QuirkbotArduinoHardware/master/package_quirkbot.com_index.json
+
+# [ RedBearLab ]
+https://redbearlab.github.io/arduino/package_redbearlab_index.json
+
+# [ Adafruit ]
+https://adafruit.github.io/arduino-board-index/package_adafruit_index.json
+
+# [ Ariadne Bootloader ]
+https://per1234.github.io/Ariadne-Bootloader/package_codebendercc_ariadne-bootloader_index.json
+
+# [ SparkFun ]
+https://raw.githubusercontent.com/sparkfun/Arduino_Boards/master/IDE_Board_Manager/package_sparkfun_index.json
+
+# [ panStamp ]
+http://panstamp.org/arduino/package_panstamp_index.json
+
+# [ TKJ Electronics ]
+https://raw.githubusercontent.com/TKJElectronics/Balanduino/master/package_tkj_balanduino_index.json
+
+# [ Kristian Sloth Lauszus ]
+https://raw.githubusercontent.com/Lauszus/Sanguino/master/package_lauszus_sanguino_index.json
+
+# [ ATtiny ]
+https://raw.githubusercontent.com/damellis/attiny/ide-1.6.x-boards-manager/package_damellis_attiny_index.json
+
+# [ ATtiny ]
+http://drazzy.com/package_drazzy.com_index.json
+
+# [ Barebones ATmega Chips (no bootloader) ]
+https://raw.githubusercontent.com/carlosefr/atmega/master/package_carlosefr_atmega_index.json
+
+# [ FemtoCow ]
+https://dl.dropboxusercontent.com/u/2807353/femtoCore/package_femtocow_attiny_index.json
+
+# [ Riddle&Code Ltd. ]
+https://raw.githubusercontent.com/RiddleAndCode/RnCAtmega256RFR2/master/Board_Manager/package_rnc_index.json
+
+# [ ESP8266 Community ]
+http://arduino.esp8266.com/stable/package_esp8266com_index.json
+
+# [ RFduino ]
+http://rfduino.com/package_rfduino_index.json
+
+# [ Akafugu ]
+https://raw.githubusercontent.com/akafugu/akafugu_core/master/package_akafugu_index.json
+
+# [ Seeeduino(Seeed Studio) ]
+https://raw.githubusercontent.com/Seeed-Studio/Seeeduino-Boards/master/package_seeeduino_index.json
+
+# [ LinkIt ONE (Seeed Studio) ]
+http://download.labs.mediatek.com/package_mtk_linkit_index.json
+
+# [ NicoHood HoodLoader2 ]
+https://raw.githubusercontent.com/NicoHood/HoodLoader2/master/package_NicoHood_HoodLoader2_index.json
+
+# [ Digistump (Official) ]
+http://digistump.com/package_digistump_index.json
+
+# [ Digistump (Unofficial) ]
+http://boneskull.com/digistump-board-index/package_digistump_index.json
+
+# [ OLIMEX ]
+https://raw.githubusercontent.com/OLIMEX/Arduino_configurations/master/package_olimex_index.json
+
+# [ Navspark ]
+http://navspark.mybigcommerce.com/content/package_navspark_index.json
+
+# [ Cosa ]
+https://raw.githubusercontent.com/mikaelpatel/Cosa/master/package_cosa_index.json
+
+# [ Cytron Technologies ]
+https://raw.githubusercontent.com/CytronTechnologies/Cytron-Arduino-URL/master/package_cytron_index.json
+
+# [ MattairTech LLC ]
+https://www.mattairtech.com/software/arduino/package_MattairTech_index.json
+
+# [ wemos.cc ]
+https://raw.githubusercontent.com/wemos/WeMos_Boards/master/package_wemos.cc_index.json
+
+# [ EMF camp TiLDA MKe (unofficial) ]
+http://www.dan-nixon.com/ArduinoTiLDAHardware/package_tilda_index.json
+
+# [ Dwengo ]
+http://www.dwengo.org/sites/default/files/package_dwengo.org_dwenguino_index.json
+
+# [ SODAQ ]
+http://downloads.sodaq.net/package_sodaq_index.json
+
+# [ avr_boot ]
+https://zevero.github.io/avr_boot/package_zevero_avr_boot_index.json
+
+# [ Laika ]
+https://raw.githubusercontent.com/eightdog/laika_arduino/master/IDE_Board_Manager/package_project_laika.com_index.json
+

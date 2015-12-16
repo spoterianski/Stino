@@ -11,7 +11,7 @@ import codecs
 import locale
 
 
-def is_imported_by_submlime():
+def is_in_submlime():
     is_by_sublime = False
     try:
         import sublime

@@ -20,7 +20,6 @@ class AbstractFile(object):
         self.path = path
         self.dir = os.path.dirname(self.path)
         self.name = os.path.basename(self.path)
-        self.caption = self.name
 
     def __str__(self):
         return '%s (%s)' % (self.name, self.path)

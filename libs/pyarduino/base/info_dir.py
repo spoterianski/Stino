@@ -74,7 +74,7 @@ def get_sys_settings_dir_path():
 
 
 def get_settings_dir_path():
-    if info_sys.is_imported_by_submlime():
+    if info_sys.is_in_submlime():
         import sublime
         subl_packages_path = sublime.packages_path()
         user_path = os.path.join(subl_packages_path, 'User')
@@ -119,3 +119,9 @@ def get_arduino_packages_dir_path():
         home = os.getenv('HOME')
         arduino_packages_path = os.path.join(home, 'Library/Arduino15')
     return arduino_packages_path
+
+
+def get_lang_dir_path():
+    cur_dir_path = get_current_dir_path()
+    lang_dir_path = os.path.join(cur_dir_path, '../languages')
+    return os.path.abspath(lang_dir_path)

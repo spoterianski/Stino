@@ -326,7 +326,7 @@ def add_extra_params(arduino_info, params):
     params['build.arch'] = target_arch.upper()
     params['runtime.ide.version'] = ide_version
     params['runtime.sketchbook.path'] = sketchbook_path
-    params['runtime.ide.path'] = ide_path
+    params['runtime.ide.path'] = os.path.join(ide_path, 'Contents\\Java')
     params['runtime.platform.path'] = target_platform_path
     params['build.system.path'] = target_system_path
     params['runtime.tools.avrdude.path'] = target_tools_avrdude_path
